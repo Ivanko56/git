@@ -1,0 +1,66 @@
+.tittle {
+        font-family: Arial, sans-serif;
+
+        font-size: 45px;
+        color: #5f14eb60
+        font-weight 100;
+        font-style: Italic;
+        text-align: right; 
+} 
+.text {
+    line-height:25px;
+} 
+.opa {
+    letter-spacing: 16 px;
+
+    text-decoration: underline; 
+
+    border: 3px #cc2020 solid; 
+
+}
+.block {
+    text-indent: 25px;
+    
+    text-transform: uppercase;
+}
+.ura {
+    width: 200px;
+    height: 180px;
+
+    border: 4px red solid;
+
+    padding-bottom: 40px;  
+    padding-top: 5px;
+}
+.lampa {
+    width: 100px;
+    height: 100px;
+
+    background-color:#cc2020;
+
+    margin: 40px auto;
+} 
+.boba {
+    width: 100px;
+    height: 100px;
+
+    border-bottom: 8px #338a19 solid;
+    border-left: 8px #000 solid;
+    border-top: 8px #4828d6 solid;
+    border-right: 8px #ff00ea solid;
+
+    border-left-width: 2px;
+    border-left-color:aqua;
+    border-left-style: dashed;
+
+    margin: 40px auto;
+}
+.biba {
+    color:#ff00ea;
+    font-size: 40ps;
+    width: 100px;
+    height: 100;
+    padding: 20px;
+    border: 3px #cc2020 solid;
+    display: block;
+}
